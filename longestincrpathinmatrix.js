@@ -1,5 +1,5 @@
 //All we have to do is perform a classic graph DFS traversal and count the number of nodes.
-//For each node, we get valid adjacents and recurr, until we reach the end of our path, which will be either none valid adjacent nodes or the border of the matrix. At each point, we keep track of the maximum counts and return;
+//For each node, we get valid adjacents and recurr, until we reach the end of our path, which will be either non valid adjacent nodes or the border of the matrix. At each point, we keep track of the maximum counts and return;
 //Once we go down one path, we already registered the lengths of the longest valid paths for each node. This can be memoized so we don't have to re-calculate if on a different instance of the traversal we travel the same path.
 
 
