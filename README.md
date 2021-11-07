@@ -1,5 +1,5 @@
 # Longest-Increasing-Path-In-Matrix
-My clean JS solution that's faster than 98%.
+My clean JS solution that's faster than 98%. 
 
 "Given an m x n integers matrix, return the length of the longest increasing path in matrix.
 
