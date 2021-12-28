@@ -28,6 +28,11 @@ Example 4: Input: matrix = [[6,7,8],[6,2,8],[5,5,1]]
 Output: 4
 Explanation: The longest increasing path is [6, 7, 8, 9]. Moving diagonally is not allowed.
 
+
+Example 5: Input: matrix = [[9,7,8],[3,5,8],[2,6,9]]
+Output: 4
+Explanation: The longest increasing path is [6, 7, 8, 9]. Moving diagonally is not allowed.
+
 Constraints:
 
 m == matrix.length
