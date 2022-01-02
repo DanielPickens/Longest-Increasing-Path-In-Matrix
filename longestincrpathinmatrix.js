@@ -49,3 +49,4 @@ Details
 Runtime: 92 ms, faster than 98.82% of JavaScript online submissions for Longest Increasing Path in a Matrix.
 Memory Usage: 43.1 MB, less than 82.82% of JavaScript online submissions for Longest Increasing Path in a Matrix.
 */
+
