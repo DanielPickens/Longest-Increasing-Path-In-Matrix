@@ -8,7 +8,6 @@
 //Space complexity: O(n)
 
 
-
 const longestIncreasingPath = (matrix) => {
   if (matrix == null || matrix.length === 0) return 0;
   const h = matrix.length;
