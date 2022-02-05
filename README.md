@@ -1,6 +1,6 @@
 # Longest-Increasing-Path-In-Matrix
 
-My clean JS solution that's faster than 98%. 
+My clean JS solution that's faster than 98%.  
 
 
 
